@@ -15,12 +15,10 @@ Bem-vindo ao repositório de exercícios de Java! Este repositório contém uma 
 
 ## Estrutura do Repositório
 
-- **`/exercicios`**: Pasta contendo os arquivos Java com os exercícios.
+- **`Files`**: files contendo os os exercícios.
 - **`README.md`**: Este arquivo, que fornece informações sobre o repositório.
 
 ## Instruções para Executar os Exercícios
 
-1. **Clone o Repositório:**
+1. **Cópie os códigos:**
 
-   ```bash
-   git clone https:
