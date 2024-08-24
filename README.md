@@ -15,7 +15,7 @@ Bem-vindo ao repositório de exercícios de Java! Este repositório contém uma 
 
 ## Estrutura do Repositório
 
-- **`Files`**: files contendo os os exercícios.
+- **`Files`**: files contendo os exercícios.
 - **`README.md`**: Este arquivo, que fornece informações sobre o repositório.
 
 ## Instruções para Executar os Exercícios
