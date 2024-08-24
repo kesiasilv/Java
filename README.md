@@ -21,4 +21,5 @@ Bem-vindo ao repositório de exercícios de Java! Este repositório contém uma 
 ## Instruções para Executar os Exercícios
 
 1. **Cópie os códigos:**
+2. Cerifique sempre se o nome da classe esta de acordo com oq voce criou na IDE para executar
 
