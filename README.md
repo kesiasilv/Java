@@ -11,7 +11,6 @@ Bem-vindo ao repositório de exercícios de Java! Este repositório contém uma 
 - Operadores e controle de fluxo
 - Estruturas de dados básicas
 - Funções e métodos
-- Programação orientada a objetos
 
 ## Estrutura do Repositório
 
