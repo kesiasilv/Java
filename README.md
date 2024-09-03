@@ -24,5 +24,5 @@ Bem-vindo ao repositório de exercícios de Java! Este repositório contém uma 
 
 ## Contato
 
-Se deseja tirar dúvidas ou compartilhar conhecimento, entre em contato comigo, meu Email: [kesiasilvab6@gmail.com](mailto:seu-email@exemplo.com).
+Se deseja tirar dúvidas ou compartilhar conhecimento, entre em contato comigo, meu Email: [Késia](kesiasilvab6@gmail.com).
 
