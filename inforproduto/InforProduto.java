@@ -8,7 +8,6 @@ package com.mycompany.inforproduto;
  *
  * @author kesia.viana
  */
-import java.util.InputMismatchException;
   import java.util.Scanner;
 
 public class InforProduto {
@@ -16,25 +15,19 @@ public class InforProduto {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Coletar informações do usuário
+        //para coletar o nome do produto
         System.out.print("Digite o nome do produto: ");
         String nome = scanner.nextLine();
-
+        
+        //para coletar o codigo do produto
         System.out.print("Digite o código do produto: ");
         String codigo = scanner.nextLine();
-
+        
+        //para coletar o preco do produto
         System.out.print("Digite o preço do produto: ");
         double preco;
-        while (true) {
-            try {
-                preco = scanner.nextDouble();
-                break;
-            } catch (InputMismatchException e) {
-                System.out.println("Entrada inválida. Por favor, insira um valor numérico válido para o preço.");
-                scanner.next(); // Limpar o buffer do scanner
-            }
-        }
-        
+        preco = scanner.nextDouble();
+               
         // Criar uma instância de Produto com as informações fornecidas
         Produto produto = new Produto(nome, codigo, preco);
 
@@ -46,7 +39,7 @@ public class InforProduto {
        
         System.out.println("Apenas o nome:");
         produto.exibirInformacoes();
-         System.out.println("--------------------------");
+        System.out.println("--------------------------");
      
         System.out.println("Nome e código:");
         produto.exibirInformacoes(true);
